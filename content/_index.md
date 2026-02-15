@@ -3,6 +3,6 @@ title = "cybersigil"
 draft = false
 +++
 
-This is the homepage text. Since this theme is minimalist, this is the first thing people see. 
+musings on the digital, affect, and media. theme from [frakthur](https://github.com/nthnbch/hugo-fraktur-theme).
 
-You can find my writing in the [Archive]({{< ref "archive/_index.md" >}}).
+you can find my writing in the [Archive]({{< ref "archive/_index.md" >}}).
